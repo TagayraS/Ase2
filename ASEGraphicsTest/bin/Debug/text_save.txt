@@ -1,0 +1,3 @@
+rectangle 20 30
+moveto 50 50
+circle 15

@@ -1,0 +1,10 @@
+C:\Users\Tagayra\source\repos\ASEGraphics\ASEGraphics\obj\Debug\ASEGraphics.csproj.AssemblyReference.cache
+C:\Users\Tagayra\source\repos\ASEGraphics\ASEGraphics\obj\Debug\ASEGraphics.Form1.resources
+C:\Users\Tagayra\source\repos\ASEGraphics\ASEGraphics\obj\Debug\ASEGraphics.Properties.Resources.resources
+C:\Users\Tagayra\source\repos\ASEGraphics\ASEGraphics\obj\Debug\ASEGraphics.csproj.GenerateResource.cache
+C:\Users\Tagayra\source\repos\ASEGraphics\ASEGraphics\obj\Debug\ASEGraphics.csproj.CoreCompileInputs.cache
+C:\Users\Tagayra\source\repos\ASEGraphics\ASEGraphics\bin\Debug\ASEGraphics.exe.config
+C:\Users\Tagayra\source\repos\ASEGraphics\ASEGraphics\bin\Debug\ASEGraphics.exe
+C:\Users\Tagayra\source\repos\ASEGraphics\ASEGraphics\bin\Debug\ASEGraphics.pdb
+C:\Users\Tagayra\source\repos\ASEGraphics\ASEGraphics\obj\Debug\ASEGraphics.exe
+C:\Users\Tagayra\source\repos\ASEGraphics\ASEGraphics\obj\Debug\ASEGraphics.pdb
